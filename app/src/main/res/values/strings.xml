@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Login_Interface</string>
+    <string name="welcome_to_the_apps">Welcome to the apps</string>
+    <string name="doesn_t_have_an_account_yet">Doesn\'t have an account yet?</string>
+    <string name="sing_up"><u>Sing Up</u></string>
+</resources>
